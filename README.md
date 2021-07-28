@@ -14,7 +14,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/77342519/127258012-2090feed-0f8a-4eb2-badf-29d30911ab4a.jpg" width="400px"></p>  
   
 ## System architecture  
-<p align="center"><img src="https://user-images.githubusercontent.com/77342519/127262252-2905f07e-08fe-46eb-90aa-4dde97661eda.PNG" width="600px"></p> 
+<p align="center"><img src="https://user-images.githubusercontent.com/77342519/127383244-7b8c090d-dfd0-41c5-a768-d4418c8318c1.PNG" width="600px"></p> 
 
 ## Hardware  
 |위|아래|
